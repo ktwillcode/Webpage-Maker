@@ -70,6 +70,14 @@ Sets font color (should use CSS instead)
 `<font face=?> </font>`
 Defines the font used (should use CSS instead)
   
+ ## Media Tag
+  
+`<video controls><source src="abcd.mp4"></video>`
+For adding Video
+  
+`<audio controls><source Src="abcd.mp3"></audio>`
+For adding Audio 
+  
 ## Links
   
 `<a href="URL">clickable text</a>`
@@ -378,3 +386,41 @@ Displays the symbol `∉` (Not element of)
 `&#8721`
 Displays the symbol `∑` (Summation)
   
+## Some other HTML Symbols
+
+`&#169`
+Displays the symbol `©` (Copyright sign)
+
+`&#174`
+Displays the symbol `®` (Registered sign)
+
+`&#8364`
+Displays the symbol `€` (Euro sign)
+
+`&#8482`
+Displays the symbol `™` (Trademark sign)
+
+`&#8592`
+Displays the symbol `←` (Leftwards arrow)
+
+`&#8593`
+Displays the symbol `↑` (Uppwards arrow)
+
+`&#8594`
+Displays the symbol `→` (Rightwards arrow)
+
+`&#8595`
+Displays the symbol `↓` (Downwards arrow)
+
+`&#9824`
+Displays the symbol `♠` (Black spade sign)
+
+`&#9827`
+Displays the symbol `♣` (Black club sign)
+
+`&#9829`
+Displays the symbol `♥` (Black heart sign)
+
+`&#9830`
+Displays the symbol `♦` (Black diamond sign)
+
